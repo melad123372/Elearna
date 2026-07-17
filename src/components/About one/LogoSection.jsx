@@ -1,0 +1,84 @@
+import React from "react";
+import { motion } from "framer-motion";
+import { logos } from "./Data";
+
+export default function LogoSection() {
+  return (
+    <section className="bg-[#0F252A] py-10 mb-30 mt-30 overflow-hidden">
+      {/* Heading */}
+      <motion.h2
+        initial={{ opacity: 0, y: -20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+        viewport={{ once: true }}
+        className="
+          text-center
+          text-xl
+          md:text-2xl
+          font-medium
+          text-gray-600
+          px-5
+        "
+      >
+        Learn from 350+ leading universities and companies with us
+      </motion.h2>
+
+      {/* Logos Slider */}
+      <div className="mt-14 overflow-hidden ">
+        <motion.div
+          className="  flex items-center gap-20 md:gap-32 w-max"
+          animate={{
+            x: ["0%", "-50%"],
+          }}
+          transition={{
+            duration: 30,
+            repeat: Infinity,
+            ease: "linear",
+          }}
+        >
+          {[...logos, ...logos].map((logo, index) => (
+            <motion.div
+              key={index}
+              initial={{
+                opacity: 0,
+                scale: 0.8,
+              }}
+              whileInView={{
+                opacity: 1,
+                scale: 1,
+              }}
+              viewport={{
+                once: true,
+              }}
+              transition={{
+                duration: 0.8,
+                delay: index * 0.1,
+              }}
+              className="
+                flex
+                items-center
+                justify-center
+                w-36
+                md:w-52
+              "
+            >
+              <img
+                src={logo}
+                alt="company logo"
+                className="
+                  w-full
+                  h-16
+                  object-contain
+                  opacity-50
+                  hover:opacity-100
+                  transition-all
+                  duration-300
+                "
+              />
+            </motion.div>
+          ))}
+        </motion.div>
+      </div>
+    </section>
+  );
+}

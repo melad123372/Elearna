@@ -10,7 +10,7 @@ import Home from "./components/Home three/Home";
 import Aboutone from "./components/About one/Aboutone";
 import Abouttwo from "./components/About two/Abouttwo";
 
-import CourseOne from "./components/CourseOne/CourseOne";
+import CourseOne from "./components/CourseOne/courseone";
 import CourseTwo from "./components/Course two/Course";
 import Courseth from "./components/Course three/Courseth";
 

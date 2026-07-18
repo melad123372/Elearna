@@ -7,7 +7,7 @@ import Aboutone from "./components/About one/Aboutone";
 import Blogone from "./components/Blog one/Blogone";
 import Contactone from "./components/Contact one/Contactsone";
 import Homes from "./components/Home two/Homes";
-import Courseone from "./components/Course one/Courseone";
+import courseone from "./components/CourseOne/CourseOne";
 import Contact from "./components/Contact two/Contact";
 import Contactth from "./components/Contact three/Contactth";
 import Blog from "./components/Blog two/Blog";

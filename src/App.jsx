@@ -10,7 +10,7 @@ import Home from "./components/Home three/Home";
 import Aboutone from "./components/About one/Aboutone";
 import Abouttwo from "./components/About two/Abouttwo";
 
-import CourseOne from "./components/CourseOne/CourseOne";
+import Courseone from "./components/Course one/CourseOne";
 import CourseTwo from "./components/Course two/Course";
 import Courseth from "./components/Course three/Courseth";
 
@@ -48,7 +48,7 @@ function App() {
         <Route path="/about-two" element={<Abouttwo />} />
 
         {/* Course pages */}
-        <Route path="/course-one" element={<CourseOne />} />
+        <Route path="/course-one" element={<Courseone />} />
         <Route path="/course-two" element={<CourseTwo />} />
         <Route path="/course-three" element={<Courseth />} />
 

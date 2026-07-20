@@ -55,8 +55,7 @@ const categories = [
 ========================= */
 
 const courses = [
-  /* Design — 3 Cards */
-
+  // Design courses
   {
     id: 1,
     image: carimg1,
@@ -88,8 +87,7 @@ const courses = [
     enrolled: "12k Enrolled",
   },
 
-  /* Development — 3 Cards */
-
+  // Development courses
   {
     id: 4,
     image: carimg4,
@@ -121,8 +119,7 @@ const courses = [
     enrolled: "19k Enrolled",
   },
 
-  /* Management — 2 Cards */
-
+  // Management courses
   {
     id: 7,
     image: carimg7,
@@ -144,8 +141,7 @@ const courses = [
     enrolled: "8k Enrolled",
   },
 
-  /* Finance — 2 Cards */
-
+  // Finance courses
   {
     id: 9,
     image: carimg9,
@@ -250,20 +246,21 @@ const cardVariants = {
 
 export default function Courses() {
   const [activeCategory, setActiveCategory] = useState("ALL");
-
   const shouldReduceMotion = useReducedMotion();
 
+  /*
+    All courses = only first 6 cards
+    Other categories = all matching cards
+  */
   const filteredCourses =
     activeCategory === "ALL"
-      ? courses
+      ? courses.slice(0, 6)
       : courses.filter((course) => course.category === activeCategory);
 
   return (
     <section className="overflow-hidden bg-[#eef7fa] px-4 py-16 sm:px-6 sm:py-20 lg:px-8 lg:py-24">
       <div className="mx-auto max-w-[1440px]">
-        {/* =========================
-            Header
-        ========================= */}
+        {/* Header */}
 
         <motion.div
           variants={headerVariants}
@@ -328,9 +325,7 @@ export default function Courses() {
             </motion.h2>
           </div>
 
-          {/* =========================
-              Category Buttons
-          ========================= */}
+          {/* Category Buttons */}
 
           <div className="flex max-w-full flex-wrap items-center gap-x-5 gap-y-3 sm:gap-x-7">
             {categories.map((category, index) => {
@@ -399,9 +394,7 @@ export default function Courses() {
           </div>
         </motion.div>
 
-        {/* =========================
-            Animated Course Cards
-        ========================= */}
+        {/* Course Cards */}
 
         <AnimatePresence mode="wait">
           <motion.div
@@ -428,7 +421,7 @@ export default function Courses() {
                 }
                 className="group relative overflow-hidden bg-white shadow-sm transition-shadow duration-500 hover:shadow-[0_20px_50px_rgba(16,43,49,0.12)]"
               >
-                {/* Image */}
+                {/* Course Image */}
 
                 <div className="relative overflow-hidden">
                   <motion.img
@@ -537,13 +530,11 @@ export default function Courses() {
                   <div className="mt-7 grid grid-cols-2 border-t border-gray-200">
                     <div className="flex min-h-[64px] items-center justify-center gap-2 border-r border-gray-200 px-2 text-xs text-[#102b31] sm:text-sm">
                       <FaBookOpen className="shrink-0 text-[13px]" />
-
                       <span>{course.lessons}</span>
                     </div>
 
                     <div className="flex min-h-[64px] items-center justify-center gap-2 px-2 text-xs text-[#102b31] sm:text-sm">
                       <FaUserGraduate className="shrink-0 text-[13px]" />
-
                       <span>{course.enrolled}</span>
                     </div>
                   </div>
@@ -585,9 +576,7 @@ export default function Courses() {
           </motion.div>
         </AnimatePresence>
 
-        {/* =========================
-            Bottom CTA
-        ========================= */}
+        {/* Bottom CTA */}
 
         <motion.div
           initial={

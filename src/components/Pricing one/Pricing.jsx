@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
-import heroBg from "../../assets/Elearna - Pricing One/herobg.webp"; // Change to your image
-
+import heroBg from "../../assets/pricing-one/herobg.webp";
 const PricingHero = () => {
   return (
     <section

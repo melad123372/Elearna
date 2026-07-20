@@ -1,10 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
 import logo1 from "../../assets/pricing-one/logo1.svg";
-import logo2 from "../../assets/Elearna - Pricing One/logo2.svg";
-import logo3 from "../../assets/Elearna - Pricing One/logo3.svg";
-import logo4 from "../../assets/Elearna - Pricing One/logo4.svg";
-import logo5 from "../../assets/Elearna - Pricing One/logo5.svg";
+import logo2 from "../../assets/pricing-one/logo2.svg";
+import logo3 from "../../assets/pricing-one/logo3.svg";
+import logo4 from "../../assets/pricing-one/logo4.svg";
+import logo5 from "../../assets/pricing-one/logo5.svg";
 export const logos = [logo1, logo2, logo3, logo4, logo5];
 export default function LogoSection() {
   return (

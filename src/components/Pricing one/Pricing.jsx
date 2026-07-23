@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroBg from "../../assets/pricing-one/herobg.webp";
+import heroBg from "../../assets/5- Pricing One/PricingOneHero.webp";
 const PricingHero = () => {
   return (
     <section

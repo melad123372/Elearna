@@ -2,10 +2,10 @@ import React from "react";
 import { FaStar } from "react-icons/fa";
 import { motion } from "framer-motion";
 
-import expimg1 from "../../assets/Elearna - Home One/expimg1.webp";
-import expimg2 from "../../assets/Elearna - Home One/expimg2.webp";
-import expimg3 from "../../assets/Elearna - Home One/expimg3.webp";
-import expimg4 from "../../assets/Elearna - Home One/expimg4.webp";
+import expimg1 from "../../assets/1- Home One imgs/CourseSmallImage-1.webp";
+import expimg2 from "../../assets/1- Home One imgs/CourseSmallImage-2.webp";
+import expimg3 from "../../assets/1- Home One imgs/CourseSmallImage-3.webp";
+import expimg4 from "../../assets/1- Home One imgs/CourseSmallImage-4.webp";
 
 const courses = [
   {

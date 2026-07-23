@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
-import herobg from "../../assets/Elearna - Home Three/herobg.webp";
-import heroimg from "../../assets/Elearna - Home Three/heroimg.webp"; // your image
+import herobg from "../../assets/17- Home Three imgs/HomeThreeBackground.webp";
+import heroimg from "../../assets/17- Home Three imgs/HomeThreeHeroManImage.webp"; // your image
 
 const features = [
   {

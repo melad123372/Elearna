@@ -1,6 +1,6 @@
 import React from "react";
-import perimg2 from "../../assets/Elearna - About One/perimg2.webp";
-import perimg1 from "../../assets/Elearna - About One/perimg1.jpg";
+import perimg2 from "../../assets/2- About One imgs/HomeOneVideoposter.jpg";
+import perimg1 from "../../assets/2- About One imgs/GirlImageUsingLaptop.webp";
 export default function App() {
   return (
     <section className="flex flex-col p-80 lg:flex-row gap-60 px-6 lg:px-10 py-20 items-center overflow-hidden">

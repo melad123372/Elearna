@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Timg2 from "../../assets/Elearna - Home Two/Timg2.webp"; // Change to your image
+import Timg2 from "../../assets/20- Blog Three imgs/BlogHeroImage.webp"; // Change to your image
 
 export default function BlogHero() {
   return (

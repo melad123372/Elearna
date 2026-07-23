@@ -1,6 +1,6 @@
 import React from "react";
 import { FaStar } from "react-icons/fa";
-import becimg1 from "../../assets/Elearna - About One/becimg1.webp";
+import becimg1 from "../../assets/2- About One imgs/GirlWithLogo.webp";
 export default function BecomeInstructor() {
   return (
     <section className="flex flex-col lg:flex-row items-center justify-between px-6 lg:px-10 py-20 overflow-hidden">

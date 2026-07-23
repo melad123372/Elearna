@@ -1,18 +1,18 @@
 import React, { useRef, useState } from "react";
 import { FaBookOpen, FaUserGraduate, FaStar } from "react-icons/fa";
 
-import cours1 from "../../assets/Elearna - Course One/cours1.webp";
-import cours2 from "../../assets/Elearna - Course One/cours2.webp";
-import cours3 from "../../assets/Elearna - Course One/cours3.webp";
-import cours4 from "../../assets/Elearna - Course One/cours4.webp";
-import cours5 from "../../assets/Elearna - Course One/cours5.webp";
-import cours6 from "../../assets/Elearna - Course One/cours6.webp";
-import cours7 from "../../assets/Elearna - Course One/cours7.webp";
-import cours8 from "../../assets/Elearna - Course One/cours8.webp";
-import cours9 from "../../assets/Elearna - Course One/cours9.webp";
-import cours10 from "../../assets/Elearna - Course One/cours10.webp";
-import cours11 from "../../assets/Elearna - Course One/cours11.webp";
-import cours12 from "../../assets/Elearna - Course One/cours12.webp";
+import cours1 from "../../assets/3- Course One imgs/CourseImage-1.webp";
+import cours2 from "../../assets/3- Course One imgs/CourseImage-2.webp";
+import cours3 from "../../assets/3- Course One imgs/CourseImage-3.webp";
+import cours4 from "../../assets/3- Course One imgs/CourseImage-4.webp";
+import cours5 from "../../assets/3- Course One imgs/CourseImage-5.webp";
+import cours6 from "../../assets/3- Course One imgs/CourseImage-6.webp";
+import cours7 from "../../assets/3- Course One imgs/CourseImage-7.webp";
+import cours8 from "../../assets/3- Course One imgs/CourseImage-8.webp";
+import cours9 from "../../assets/3- Course One imgs/CourseImage-9.webp";
+import cours10 from "../../assets/3- Course One imgs/CourseImage-10.webp";
+import cours11 from "../../assets/3- Course One imgs/CourseImage-11.webp";
+import cours12 from "../../assets/3- Course One imgs/CourseImage-12.webp";
 const courses = [
   {
     category: "FINANCE",

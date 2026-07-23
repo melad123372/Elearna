@@ -1,5 +1,5 @@
 import React from "react";
-import leimg2 from "../../assets/Elearna - Contact Two/leimg2.webp";
+import leimg2 from "../../assets/16- Contact Two imgs/ContactUsOne-2.webp";
 const ContactHero = () => {
   return (
     <section

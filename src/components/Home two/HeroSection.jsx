@@ -1,14 +1,14 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import heroImg from "../../assets/Elearna - Home Two/heroImg.webp";
+import heroImg from "../../assets/11- Home Two Imgs/BoyUsingLaptopImage.webp";
 
-import logo1 from "../../assets/Elearna - Home Two/logo1.svg";
-import logo2 from "../../assets/Elearna - Home Two/logo2.svg";
-import logo3 from "../../assets/Elearna - Home Two/logo3.svg";
-import logo4 from "../../assets/Elearna - Home Two/logo4.svg";
-import logo5 from "../../assets/Elearna - Home Two/logo5.svg";
-import logo6 from "../../assets/Elearna - Home Two/logo6.svg";
+import logo1 from "../../assets/11- Home Two Imgs/ClientIconBlack.svg";
+import logo2 from "../../assets/11- Home Two Imgs/ClientIconBlack-2.svg";
+import logo3 from "../../assets/11- Home Two Imgs/ClientIconBlack-3.svg";
+import logo4 from "../../assets/11- Home Two Imgs/ClientIconBlack-4.svg";
+import logo5 from "../../assets/11- Home Two Imgs/ClientIconBlack-5.svg";
+import logo6 from "../../assets/11- Home Two Imgs/ClientIconBlack-6.svg";
 
 const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 

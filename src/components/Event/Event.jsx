@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import eventHero from "../../assets/Elearna - Events/eventHero.webp"; // Change to your image
+import eventHero from "../../assets/7- Events imgs/EventsBanner.webp"; // Change to your image
 
 const EventHero = () => {
   return (

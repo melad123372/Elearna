@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import storyImageOne from "../../assets/Elearna - About Two/storyImageOne.webp";
-import storyImageTwo from "../../assets/Elearna - About Two/storyImageTwo.webp";
+import storyImageOne from "../../assets/12- About Two imgs/storyImageOne.webp";
+import storyImageTwo from "../../assets/12- About Two imgs/storyImageTwo.webp";
 
 const ease = [0.22, 1, 0.36, 1];
 

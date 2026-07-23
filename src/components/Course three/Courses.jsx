@@ -2,12 +2,24 @@ import { useState } from "react";
 import { Star } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
+import Timg1 from "../../assets/18- Course Three imgs/CourseImage-1.webp";
+import Timg2 from "../../assets/18- Course Three imgs/CourseImage-2.webp";
+import Timg3 from "../../assets/18- Course Three imgs/CourseImage-3.webp";
+import Timg4 from "../../assets/18- Course Three imgs/CourseImage-4.webp";
+import Timg5 from "../../assets/18- Course Three imgs/CourseImage-5.webp";
+import Timg6 from "../../assets/18- Course Three imgs/CourseImage-6.webp";
+import Timg7 from "../../assets/18- Course Three imgs/CourseImage-7.webp";
+import Timg8 from "../../assets/18- Course Three imgs/CourseImage-8.webp";
+import Timg9 from "../../assets/18- Course Three imgs/CourseImage-9.webp";
+import Timg10 from "../../assets/18- Course Three imgs/CourseImage-10.webp";
+import Timg11 from "../../assets/18- Course Three imgs/CourseImage-11.webp";
+
 const courses = [
   {
     id: 1,
     category: "MANAGEMENT",
     title: "Crisis management and problem-solving strategies",
-    image: "https://images.unsplash.com/photo-1573496773905-f5b17e717f05?w=600",
+    image: Timg1,
     rating: 4.88,
     reviews: 210,
     price: "Free",
@@ -16,7 +28,7 @@ const courses = [
     id: 2,
     category: "DESIGN",
     title: "Advanced photoshop techniques for designers",
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600",
+    image: Timg2,
     rating: 5,
     reviews: "1.2K",
     price: "Free",
@@ -25,7 +37,7 @@ const courses = [
     id: 3,
     category: "FINANCE",
     title: "Understanding corporate finance and investments",
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600",
+    image: Timg3,
     rating: 4.88,
     reviews: 210,
     price: "Free",
@@ -34,7 +46,7 @@ const courses = [
     id: 4,
     category: "DEVELOPMENT",
     title: "Full Stack Web Development with MERN",
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+    image: Timg4,
     rating: 5,
     reviews: 985,
     price: "$72",
@@ -43,7 +55,7 @@ const courses = [
     id: 5,
     category: "DEVELOPMENT",
     title: "Building SPA using Angular",
-    image: "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=600",
+    image: Timg5,
     rating: 5,
     reviews: 328,
     price: "$0",
@@ -52,7 +64,7 @@ const courses = [
     id: 6,
     category: "DATABASE",
     title: "Database Integration with MongoDB",
-    image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600",
+    image: Timg6,
     rating: 4.49,
     reviews: 756,
     price: "$59",
@@ -61,7 +73,7 @@ const courses = [
     id: 7,
     category: "MANAGEMENT",
     title: "Risk Management and Business Continuity",
-    image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=600",
+    image: Timg7,
     rating: 4.88,
     reviews: 210,
     price: "$49",
@@ -70,7 +82,7 @@ const courses = [
     id: 8,
     category: "FINANCE",
     title: "Complete Guide to Personal Finance",
-    image: "https://images.unsplash.com/photo-1522202222206-b7500f87f4d8?w=600",
+    image: Timg8,
     rating: 4.88,
     reviews: 210,
     price: "$99",
@@ -79,7 +91,7 @@ const courses = [
     id: 9,
     category: "MARKETING",
     title: "Digital Marketing Masterclass",
-    image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600",
+    image: Timg9,
     rating: 4.92,
     reviews: 500,
     price: "$39",
@@ -88,7 +100,7 @@ const courses = [
     id: 10,
     category: "UI/UX",
     title: "Figma UI Design Bootcamp",
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+    image: Timg10,
     rating: 4.95,
     reviews: 620,
     price: "$45",
@@ -97,7 +109,7 @@ const courses = [
     id: 11,
     category: "BUSINESS",
     title: "Startup Business Fundamentals",
-    image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=600",
+    image: Timg11,
     rating: 4.98,
     reviews: 400,
     price: "$55",

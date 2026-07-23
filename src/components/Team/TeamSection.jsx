@@ -1,13 +1,13 @@
 import { motion } from "framer-motion";
 
-import img1 from "../../assets/Elearna - Team/team1.webp";
-import img2 from "../../assets/Elearna - Team/team2.webp";
-import img3 from "../../assets/Elearna - Team/team3.webp";
-import img4 from "../../assets/Elearna - Team/team4.webp";
-import img5 from "../../assets/Elearna - Team/team5.webp";
-import img6 from "../../assets/Elearna - Team/team6.webp";
-import img7 from "../../assets/Elearna - Team/team7.webp";
-import img8 from "../../assets/Elearna - Team/team8.webp";
+import img1 from "../../assets/8- Team imgs/TeamMember-1.webp";
+import img2 from "../../assets/8- Team imgs/TeamMember-2.webp";
+import img3 from "../../assets/8- Team imgs/TeamMember-3.webp";
+import img4 from "../../assets/8- Team imgs/TeamMember-4.webp";
+import img5 from "../../assets/8- Team imgs/TeamMember-5.webp";
+import img6 from "../../assets/8- Team imgs/TeamMember-6.webp";
+import img7 from "../../assets/8- Team imgs/TeamMember-7.webp";
+import img8 from "../../assets/8- Team imgs/TeamMember-8.webp";
 
 const teamMembers = [
   { id: 1, name: "Leslie Upton", role: "INSTRUCTOR", image: img1 },

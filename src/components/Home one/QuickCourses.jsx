@@ -1,8 +1,8 @@
 import React from "react";
 import { FaPlus, FaMicrophone, FaVideo, FaPhone } from "react-icons/fa";
 
-import quimg from "../../assets/Elearna - Home One/quimg.webp";
-import devimg from "../../assets/Elearna - Home One/devimg.jpg";
+import quimg from "../../assets/1- Home One imgs/WomanUsingLaptop.webp";
+import devimg from "../../assets/1- Home One imgs/HomeOneVideo-poster.jpg";
 
 export default function QuickCourses() {
   return (

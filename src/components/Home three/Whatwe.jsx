@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 
-import offerImage from "../../assets/Elearna - Home Three/offerImage.jpg";
+import offerImage from "../../assets/17- Home Three imgs/HomeOneVideoposter.jpg";
 
 const features = [
   "Skill-based instruction",

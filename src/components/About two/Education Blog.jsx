@@ -1,9 +1,9 @@
 import React from "react";
 import { motion, useReducedMotion } from "framer-motion";
 
-import blogImg1 from "../../assets/Elearna - About Two/blogImg1.webp";
-import blogImg2 from "../../assets/Elearna - About Two/blogImg2.webp";
-import blogImg3 from "../../assets/Elearna - About Two/blogImg3.webp";
+import blogImg1 from "../../assets/12- About Two imgs/blogImg1.webp";
+import blogImg2 from "../../assets/12- About Two imgs/blogImg2.webp";
+import blogImg3 from "../../assets/12- About Two imgs/blogImg3.webp";
 
 const blogPosts = [
   {

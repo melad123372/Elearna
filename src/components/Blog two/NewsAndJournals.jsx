@@ -1,16 +1,16 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import Bigimg from "../../assets/Elearna - Blog Two/Bigimg.webp";
+import Bigimg from "../../assets/15- Blog Two Imgs/BlogThumbnail.webp";
 
-import blog1 from "../../assets/Elearna - Blog Two/blog1.webp";
-import blog2 from "../../assets/Elearna - Blog Two/blog2.webp";
-import blog3 from "../../assets/Elearna - Blog Two/blog3.webp";
-import blog4 from "../../assets/Elearna - Blog Two/blog4.webp";
-import blog5 from "../../assets/Elearna - Blog Two/blog5.webp";
-import blog6 from "../../assets/Elearna - Blog Two/blog6.webp";
-import blog7 from "../../assets/Elearna - Blog Two/blog7.webp";
-import blog8 from "../../assets/Elearna - Blog Two/blog8.webp";
+import blog1 from "../../assets/15- Blog Two Imgs/BlogThumbnail-1.webp";
+import blog2 from "../../assets/15- Blog Two Imgs/BlogThumbnail-2.webp";
+import blog3 from "../../assets/15- Blog Two Imgs/BlogThumbnail-3.webp";
+import blog4 from "../../assets/15- Blog Two Imgs/BlogThumbnail-4.webp";
+import blog5 from "../../assets/15- Blog Two Imgs/BlogThumbnail-5.webp";
+import blog6 from "../../assets/15- Blog Two Imgs/BlogThumbnail-6.webp";
+import blog7 from "../../assets/15- Blog Two Imgs/BlogThumbnail-7.webp";
+import blog8 from "../../assets/15- Blog Two Imgs/BlogThumbnail-8.webp";
 
 const blogs = [
   {

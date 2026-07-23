@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import bgimg from "../../assets/Elearna - FAQ/bgimg.webp"; // Replace with your image
+import bgimg from "../../assets/4- FAQ/FAQHero.webp"; // Replace with your image
 
 export default function FaqHero() {
   return (

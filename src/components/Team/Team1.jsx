@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import bgimg from "../../assets/Elearna - Team/bgimg.webp";
+import bgimg from "../../assets/8- Team imgs/TeamHeroImage.webp";
 export default function ExpertsHero() {
   return (
     <section className="relative h-[60vh] sm:h-[70vh] md:h-[80vh] lg:h-screen overflow-hidden">

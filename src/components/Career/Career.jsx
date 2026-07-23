@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImg from "../../assets/Elearna - Career/herobg.webp";
+import heroImg from "../../assets/6- Career imgs/PricingOneHero.webp";
 // change image path according to your project
 
 export default function InstructorHero() {

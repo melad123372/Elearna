@@ -12,16 +12,16 @@ import {
    Images
 ========================= */
 
-import carimg1 from "../../assets/Elearna - Home One/carimg1.webp";
-import carimg2 from "../../assets/Elearna - Home One/carimg2.webp";
-import carimg3 from "../../assets/Elearna - Home One/carimg3.webp";
-import carimg4 from "../../assets/Elearna - Home One/carimg4.webp";
-import carimg5 from "../../assets/Elearna - Home One/carimg5.webp";
-import carimg6 from "../../assets/Elearna - Home One/carimg6.webp";
-import carimg7 from "../../assets/Elearna - Home One/carimg7.webp";
-import carimg8 from "../../assets/Elearna - Home One/carimg8.webp";
-import carimg9 from "../../assets/Elearna - Home One/carimg9.webp";
-import carimg10 from "../../assets/Elearna - Home One/carimg10.webp";
+import carimg1 from "../../assets/1- Home One imgs/CourseImage-1.webp";
+import carimg2 from "../../assets/1- Home One imgs/CourseImage-2.webp";
+import carimg3 from "../../assets/1- Home One imgs/CourseImage-3.webp";
+import carimg4 from "../../assets/1- Home One imgs/CourseImage-4.webp";
+import carimg5 from "../../assets/1- Home One imgs/CourseImage-5.webp";
+import carimg6 from "../../assets/1- Home One imgs/CourseImage-6.webp";
+import CourseImage7 from "../../assets/1- Home One imgs/CourseImage-7.webp";
+import carimg8 from "../../assets/1- Home One imgs/CourseImage-8.webp";
+import carimg9 from "../../assets/1- Home One imgs/CourseImage-9.webp";
+import carimg10 from "../../assets/1- Home One imgs/CourseImage-10.webp";
 
 /* =========================
    Categories
@@ -122,7 +122,7 @@ const courses = [
   // Management courses
   {
     id: 7,
-    image: carimg7,
+    image: CourseImage7,
     category: "MANAGEMENT",
     title: "Crisis management and problem-solving strategies",
     price: "Free",

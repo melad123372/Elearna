@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 
-import event1 from "../../assets/Elearna - Events/event1.webp";
-import event2 from "../../assets/Elearna - Events/event2.webp";
-import event3 from "../../assets/Elearna - Events/event3.webp";
-import event4 from "../../assets/Elearna - Events/event4.webp";
-import event5 from "../../assets/Elearna - Events/event5.webp";
-import event6 from "../../assets/Elearna - Events/event6.webp";
+import event1 from "../../assets/7- Events imgs/EventImage.webp";
+import event2 from "../../assets/7- Events imgs/EventImage-2.webp";
+import event3 from "../../assets/7- Events imgs/EventImage-3.webp";
+import event4 from "../../assets/7- Events imgs/EventImage-4.webp";
+import event5 from "../../assets/7- Events imgs/EventImage-5.webp";
+import event6 from "../../assets/7- Events imgs/EventImage-6.webp";
 
 const events = [
   {

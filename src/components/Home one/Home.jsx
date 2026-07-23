@@ -7,7 +7,7 @@ export default function Hero() {
     bgImg2,
     img1,
     img2,
-    girlimg,
+    BannerGirl,
 
     titleSmall,
     titleMain,
@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="w-full lg:w-1/2 relative flex justify-center items-center mt-10 lg:mt-0">
           {/* GIRL IMAGE */}
           <img
-            src={girlimg}
+            src={BannerGirl}
             alt="girl"
             className="relative z-30 w-[240px] sm:w-[300px] md:w-[380px] lg:w-[550px] drop-shadow-2xl"
           />

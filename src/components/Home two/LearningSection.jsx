@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 
-import leimg1 from "../../assets/Elearna - Home Two/leimg1.webp";
-import leimg2 from "../../assets/Elearna - Home Two/leimg2.webp";
-import leimg3 from "../../assets/Elearna - Home Two/leimg3.webp";
-import leimg4 from "../../assets/Elearna - Home Two/leimg4.webp";
+import leimg1 from "../../assets/11- Home Two Imgs/PotentialImage-1.webp";
+import leimg2 from "../../assets/11- Home Two Imgs/PotentialImage-2.webp";
+import leimg3 from "../../assets/11- Home Two Imgs/PotentialImage-3.webp";
+import leimg4 from "../../assets/11- Home Two Imgs/PotentialImage-4.webp";
 
 const data = [
   {

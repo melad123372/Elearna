@@ -2,14 +2,14 @@ import React from "react";
 import { FaStar, FaCheck } from "react-icons/fa";
 import { motion } from "framer-motion";
 
-import expimg1 from "../../assets/Elearna - Home Three/expimg1.webp";
-import expimg2 from "../../assets/Elearna - Home Three/expimg2.webp";
-import expimg3 from "../../assets/Elearna - Home Three/expimg3.webp";
-import expimg4 from "../../assets/Elearna - Home Three/expimg4.webp";
-import expimg5 from "../../assets/Elearna - Home Three/expimg5.webp";
-import expimg6 from "../../assets/Elearna - Home Three/expimg6.webp";
-import expimg7 from "../../assets/Elearna - Home Three/expimg7.webp";
-import expimg8 from "../../assets/Elearna - Home Three/expimg8.webp";
+import expimg1 from "../../assets/17- Home Three imgs/CourseSmallImage.webp";
+import expimg2 from "../../assets/17- Home Three imgs/CourseSmallImage-2.webp";
+import expimg3 from "../../assets/17- Home Three imgs/CourseSmallImage-3.webp";
+import expimg4 from "../../assets/17- Home Three imgs/CourseSmallImage-4.webp";
+import expimg5 from "../../assets/17- Home Three imgs/CourseSmallImage-5.webp";
+import expimg6 from "../../assets/17- Home Three imgs/CourseSmallImage-6.webp";
+import expimg7 from "../../assets/17- Home Three imgs/CourseSmallImage-7.webp";
+import expimg8 from "../../assets/17- Home Three imgs/CourseSmallImage-8.webp";
 
 const courses = [
   {

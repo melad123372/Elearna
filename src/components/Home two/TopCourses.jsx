@@ -2,12 +2,12 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FaStar } from "react-icons/fa";
 
-import Timg1 from "../../assets/Elearna - Home Two/Timg1.webp";
-import Timg2 from "../../assets/Elearna - Home Two/Timg2.webp";
-import Timg3 from "../../assets/Elearna - Home Two/Timg3.webp";
-import Timg4 from "../../assets/Elearna - Home Two/Timg4.webp";
-import Timg5 from "../../assets/Elearna - Home Two/Timg5.webp";
-import Timg6 from "../../assets/Elearna - Home Two/Timg6.webp";
+import Timg1 from "../../assets/11- Home Two Imgs/CourseImage-1.webp";
+import Timg2 from "../../assets/11- Home Two Imgs/CourseImage-2.webp";
+import Timg3 from "../../assets/11- Home Two Imgs/CourseImage-3.webp";
+import Timg4 from "../../assets/11- Home Two Imgs/CourseImage-4.webp";
+import Timg5 from "../../assets/11- Home Two Imgs/CourseImage-5.webp";
+import Timg6 from "../../assets/11- Home Two Imgs/CourseImage-6.webp";
 
 const courses = [
   {

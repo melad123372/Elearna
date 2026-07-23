@@ -8,7 +8,7 @@ import LogoSection from "./LogoSection";
 import Overvison from "./Overvison";
 import Card from "./Card";
 import EducationBlog from "./Education Blog";
-import Footer from "./Footer copy";
+import Footer from "./Footer";
 const Pages = () => {
   return (
     <div>

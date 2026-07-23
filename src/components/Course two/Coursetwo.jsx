@@ -1,6 +1,6 @@
 import React from "react";
 
-import bgimg from "../../assets/Elearna - Course Two/bgimg.webp";
+import bgimg from "../../assets/13- Course Two imgs/CourseTwoHero.webp";
 
 const Hero = () => {
   return (

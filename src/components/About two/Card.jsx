@@ -1,7 +1,7 @@
 import React from "react";
 
-import girlImg from "../../assets/Elearna - About Two/girlImage.webp";
-import avatarImg from "../../assets/Elearna - About Two/avatarImage.webp";
+import girlImg from "../../assets/12- About Two imgs/InstructorImageWithLogo.webp";
+import avatarImg from "../../assets/12- About Two imgs/ReviewPopup.webp";
 
 const InstructorSection = () => {
   return (

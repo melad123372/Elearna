@@ -3,10 +3,10 @@
 import { motion, useReducedMotion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 
-import img1 from "../../assets/Elearna - About Two/img1.webp";
-import img2 from "../../assets/Elearna - About Two/img2.webp";
-import img3 from "../../assets/Elearna - About Two/img3.webp";
-import img4 from "../../assets/Elearna - About Two/img4.webp";
+import leimg1 from "../../assets/12- About Two imgs/CategoryCardsImage-1.webp";
+import leimg2 from "../../assets/12- About Two imgs/CategoryCardsImage-2.webp";
+import leimg3 from "../../assets/12- About Two imgs/CategoryCardsImage-3.webp";
+import leimg4 from "../../assets/12- About Two imgs/CategoryCardsImage-4.webp";
 
 const courses = [
   {
@@ -15,7 +15,7 @@ const courses = [
     title: "Technology",
     description:
       "Explore practical technology courses designed for modern digital careers.",
-    image: img1,
+    image: leimg1,
     href: "#technology",
   },
   {
@@ -24,7 +24,7 @@ const courses = [
     title: "Education",
     description:
       "Build essential teaching and learning skills with flexible online courses.",
-    image: img2,
+    image: leimg2,
     href: "#education",
   },
   {
@@ -33,7 +33,7 @@ const courses = [
     title: "Management",
     description:
       "Develop leadership, organization, and strategic decision-making skills.",
-    image: img3,
+    image: leimg3,
     href: "#management",
   },
   {
@@ -42,7 +42,7 @@ const courses = [
     title: "Business",
     description:
       "Learn practical business principles for growth, innovation, and success.",
-    image: img4,
+    image: leimg4,
     href: "#business",
   },
 ];

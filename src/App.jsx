@@ -43,32 +43,26 @@ function App() {
         <Route path="/home-two" element={<Homes />} />
         <Route path="/home-three" element={<Home />} />
 
-        {/* About pages */}
         <Route path="/about-one" element={<Aboutone />} />
         <Route path="/about-two" element={<Abouttwo />} />
 
-        {/* Course pages */}
         <Route path="/course-one" element={<Courseone />} />
         <Route path="/course-two" element={<CourseTwo />} />
         <Route path="/course-three" element={<Courseth />} />
 
-        {/* Blog pages */}
         <Route path="/blog-one" element={<Blogone />} />
         <Route path="/blog-two" element={<Blog />} />
         <Route path="/blog-three" element={<Blogeth />} />
 
-        {/* Contact pages */}
         <Route path="/contact-one" element={<Contactone />} />
         <Route path="/contact-two" element={<Contact />} />
         <Route path="/contact-three" element={<Contactth />} />
 
-        {/* Other pages */}
         <Route path="/faq" element={<Faq1 />} />
         <Route path="/team" element={<Team />} />
         <Route path="/events" element={<Event1 />} />
         <Route path="/career" element={<Career1 />} />
 
-        {/* Pricing pages */}
         <Route path="/pricing-one" element={<Pricingone />} />
         <Route path="/pricing-two" element={<Pricingtwo />} />
         <Route path="/pricing-three" element={<Pricingthree />} />

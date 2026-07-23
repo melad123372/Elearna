@@ -3,11 +3,11 @@ import { motion } from "framer-motion";
 import { FaStar, FaBook, FaUserGraduate } from "react-icons/fa";
 
 // Background Images
-import bg1 from "../../assets/Elearna - Home Three/bg1.webp";
-import bg2 from "../../assets/Elearna - Home Three/bg2.webp";
-import bg3 from "../../assets/Elearna - Home Three/bg3.webp";
-import bg4 from "../../assets/Elearna - Home Three/bg4.webp";
-import bg5 from "../../assets/Elearna - Home Three/bg5.webp";
+import bg1 from "../../assets/17- Home Three imgs/CourseBackground.webp";
+import bg2 from "../../assets/17- Home Three imgs/CourseBackground-2.webp";
+import bg3 from "../../assets/17- Home Three imgs/CourseBackground-3.webp";
+import bg4 from "../../assets/17- Home Three imgs/CourseBackground-4.webp";
+import bg5 from "../../assets/17- Home Three imgs/CourseBackground-5.webp";
 
 const courses = [
   {

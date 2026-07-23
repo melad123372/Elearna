@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
-import visionImg1 from "../../assets/Elearna - About Two/visionImg1.webp";
-import visionImg2 from "../../assets/Elearna - About Two/visionImg2.webp";
+import storyImageOne from "../../assets/12- About Two imgs/AboutTwoEmployeImage-1.webp";
+import storyImageTwo from "../../assets/12- About Two imgs/AboutTwoEmployeeImage-2.webp";
 
 export default function Vission() {
   const sectionRef = useRef(null);
@@ -85,7 +85,7 @@ export default function Vission() {
         {/* ROW 1 */}
         <div className="flex items-center gap-4">
           <img
-            src={visionImg1}
+            src={storyImageOne}
             alt="season"
             className="w-1/2 h-60 object-cover rounded-xl"
           />
@@ -106,7 +106,7 @@ export default function Vission() {
           </div>
 
           <img
-            src={visionImg2}
+            src={storyImageTwo}
             alt="placement"
             className="w-1/2 h-60 object-cover rounded-xl"
           />

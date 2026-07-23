@@ -5,7 +5,7 @@ import { FaRegCircleUser } from "react-icons/fa6";
 import { MdAutoGraph } from "react-icons/md";
 import { IoBookOutline } from "react-icons/io5";
 
-import expimg3 from "../../assets/Elearna - Home One/expimg3.webp";
+import expimg3 from "../../assets/2- About One imgs/EmployImages.webp";
 
 export default function AboutOne() {
   const stats = [

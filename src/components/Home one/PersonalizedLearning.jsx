@@ -1,8 +1,8 @@
 import React from "react";
 import { FaCheck } from "react-icons/fa";
 
-import giralImg from "../../assets/Elearna - Home One/giralimg.webp";
-import boyImg from "../../assets/Elearna - Home One/boyimg.webp";
+import giralImg from "../../assets/1- Home One imgs/WomanImageHolding.webp";
+import boyImg from "../../assets/1- Home One imgs/ManImageHoldingGraph.webp";
 
 export default function PersonalizedLearning() {
   return (

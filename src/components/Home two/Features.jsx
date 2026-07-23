@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import leimg from "../../assets/Elearna - Home Two/leimg.webp";
-import Timg7 from "../../assets/Elearna - Home Two/Timg7.jpg";
+import leimg from "../../assets/11- Home Two Imgs/WomanImage.webp";
+import Timg7 from "../../assets/11- Home Two Imgs/Videoposter.jpg";
 
 const stats = [
   { value: "1.5K", label: "FINISH SESSIONS" },

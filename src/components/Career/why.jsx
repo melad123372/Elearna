@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { CheckCircle } from "lucide-react";
 
-import image1 from "../../assets/Elearna - Career/image1.webp";
-import image2 from "../../assets/Elearna - Career/image2.webp";
+import image1 from "../../assets/6- Career imgs/CareerPageImage.webp";
+import image2 from "../../assets/6- Career imgs/CareerPageImag-2.webp";
 
 export default function WhyWeAreSection() {
   const features = [

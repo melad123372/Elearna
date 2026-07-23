@@ -2,9 +2,8 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FiCheckCircle, FiXCircle } from "react-icons/fi";
 
-import gift from "../../assets/Pricing-Two/gift.svg";
-import king from "../../assets/Pricing-Two/king.svg";
-
+import gift from "../../assets/14- Pricing Two Imgs/gift.svg";
+import king from "../../assets/14- Pricing Two Imgs/king.svg";
 const plans = [
   {
     title: "Starter Plan",

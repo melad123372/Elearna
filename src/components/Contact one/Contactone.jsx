@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import herobg from "../../assets/Elearna - Contact One/herobg.webp";
+import herobg from "../../assets/10- Contact One imgs/ContactUsOne.webp";
 
 const ContactPage = () => {
   return (

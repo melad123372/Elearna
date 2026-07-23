@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { FiPlus, FiMinus } from "react-icons/fi";
-import faq from "../../assets/Elearna - Pricing Three/faq.svg";
+import faq from "../../assets/5- Pricing One/faq.svg";
 
 const faqs = [
   {

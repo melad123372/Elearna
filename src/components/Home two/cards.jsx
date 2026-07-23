@@ -1,9 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import cardimg1 from "../../assets/Elearna - Home Two/cardimg1.webp";
-import cardimg2 from "../../assets/Elearna - Home Two/cardimg2.webp";
-import cardimg3 from "../../assets/Elearna - Home Two/cardimg3.webp";
+import cardimg1 from "../../assets/11- Home Two Imgs/BlogThumbnail-1.webp";
+import cardimg2 from "../../assets/11- Home Two Imgs/BlogThumbnail-2.webp";
+import cardimg3 from "../../assets/11- Home Two Imgs/BlogThumbnail-3.webp";
 
 const blogs = [
   {

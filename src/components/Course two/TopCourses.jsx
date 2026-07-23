@@ -1,20 +1,18 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaStar } from "react-icons/fa";
-
-import Timg1 from "../../assets/Elearna - Course Two/Timg1.webp";
-import Timg3 from "../../assets/Elearna - Course Two/Timg2.webp";
-import Timg2 from "../../assets/Elearna - Course Two/Timg3.webp";
-import Timg4 from "../../assets/Elearna - Course Two/Timg4.webp";
-import Timg5 from "../../assets/Elearna - Course Two/Timg5.webp";
-import Timg6 from "../../assets/Elearna - Course Two/Timg6.webp";
-import Timg7 from "../../assets/Elearna - Course Two/Timg7.webp";
-import Timg8 from "../../assets/Elearna - Course Two/Timg8.webp";
-import Timg9 from "../../assets/Elearna - Course Two/Timg9.webp";
-import Timg10 from "../../assets/Elearna - Course Two/Timg10.webp";
-import Timg11 from "../../assets/Elearna - Course Two/Timg11.webp";
-import Timg12 from "../../assets/Elearna - Course Two/Timg12.webp";
-
+import Timg1 from "../../assets/13- Course Two imgs/CourseImage-1.webp";
+import Timg2 from "../../assets/13- Course Two imgs/CourseImage-2.webp";
+import Timg3 from "../../assets/13- Course Two imgs/CourseImage-3.webp";
+import Timg4 from "../../assets/13- Course Two imgs/CourseImage-4.webp";
+import Timg5 from "../../assets/13- Course Two imgs/CourseImage-5.webp";
+import Timg6 from "../../assets/13- Course Two imgs/CourseImage-6.webp";
+import Timg7 from "../../assets/13- Course Two imgs/CourseImage-7.webp";
+import Timg8 from "../../assets/13- Course Two imgs/CourseImage-8.webp";
+import Timg9 from "../../assets/13- Course Two imgs/CourseImage-9.webp";
+import Timg10 from "../../assets/13- Course Two imgs/CourseImage-10.webp";
+import Timg11 from "../../assets/13- Course Two imgs/CourseImage-11.webp";
+import Timg12 from "../../assets/13- Course Two imgs/CourseImage-12.webp";
 const coursesOne = [
   {
     title: "Building single page applications with angular",

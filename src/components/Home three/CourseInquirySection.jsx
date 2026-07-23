@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { animate, motion, useInView } from "framer-motion";
 
-import backgroundImage from "../../assets/Elearna - Home Three/backgroundImage.webp";
+import backgroundImage from "../../assets/17- Home Three imgs/MainBg.webp";
 
 const stats = [
   {

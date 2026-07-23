@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
-import logo from "../../assets/Elearna - About One/logo.svg";
-import footerImg from "../../assets/Elearna - About One/footer-bg.webp";
+import logo from "../../assets/15- Blog Two Imgs/Footer-logo.svg";
+import footerImg from "../../assets/15- Blog Two Imgs/footer-bg.webp";
 
 export default function Footer() {
   const fadeUp = {

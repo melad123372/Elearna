@@ -1,12 +1,12 @@
 import React from "react";
 import { FiArrowRight } from "react-icons/fi";
 
-import img1 from "../../assets/Elearna - Blog One/img1.webp";
-import img2 from "../../assets/Elearna - Blog One/img2.webp";
-import img3 from "../../assets/Elearna - Blog One/img3.webp";
-import img4 from "../../assets/Elearna - Blog One/img4.webp";
-import img5 from "../../assets/Elearna - Blog One/img5.webp";
-import img6 from "../../assets/Elearna - Blog One/img6.webp";
+import img1 from "../../assets/9- Blog One imgs/BlogThumbnail-1.webp";
+import img2 from "../../assets/9- Blog One imgs/BlogThumbnail-2.webp";
+import img3 from "../../assets/9- Blog One imgs/BlogThumbnail-3.webp";
+import img4 from "../../assets/9- Blog One imgs/BlogThumbnail-4.webp";
+import img5 from "../../assets/9- Blog One imgs/BlogThumbnail-5.webp";
+import img6 from "../../assets/9- Blog One imgs/BlogThumbnail-6.webp";
 const blogs = [
   {
     image: img1,

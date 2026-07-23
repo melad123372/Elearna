@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from "../../assets/Elearna - About Two/heroImage.webp";
+import heroImage from "../../assets/12- About Two imgs/AboutTwoHero.webp";
 
 const containerVariants = {
   hidden: {},

@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import hometwobg from "../../assets/Elearna - Home Two/hometwobg.webp";
+import hometwobg from "../../assets/11- Home Two Imgs/Hero.webp";
 
 const features = [
   {

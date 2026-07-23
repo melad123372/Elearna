@@ -1,10 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import category1 from "../../assets/Elearna - Home Three/category1.webp";
-import category2 from "../../assets/Elearna - Home Three/category2.webp";
-import category3 from "../../assets/Elearna - Home Three/category3.webp";
-import category4 from "../../assets/Elearna - Home Three/category4.webp";
+import category1 from "../../assets/17- Home Three imgs/CategoryImage.webp";
+import category2 from "../../assets/17- Home Three imgs/CategoryImage-2.webp";
+import category3 from "../../assets/17- Home Three imgs/CategoryImage-3.webp";
+import category4 from "../../assets/17- Home Three imgs/CategoryImage-4.webp";
 
 const categories = [
   {

@@ -1,5 +1,5 @@
 import React from "react";
-import carimg4 from "../../assets/Elearna - Home One/carimg4.webp";
+import carimg4 from "../../assets/9- Blog One imgs/BlogHeroImage.webp";
 const Hero = () => {
   return (
     <section

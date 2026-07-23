@@ -1,6 +1,6 @@
 import React from "react";
 import { FiHome, FiFileText, FiClock } from "react-icons/fi";
-import bgimg from "../../assets/Elearna - Contact Two/bgimg.webp";
+import bgimg from "../../assets/16- Contact Two imgs/ContactBackground-2.webp";
 
 const ContactSection = () => {
   return (
